@@ -58,8 +58,7 @@ During this project, I learned:
 ---
 
 ## 🖥️ Output Screenshot
-
-> 📸 Add your program output screenshot here
+![ATM Output Screenshot](output.png)
 
 ```text
 ATM Withdrawal Simulation
